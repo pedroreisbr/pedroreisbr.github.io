@@ -1,12 +1,12 @@
 {
-  "name": "jekflix-template",
-  "version": "3.1.1",
+  "name": "jekflix-pk-template",
+  "version": "1.0.1",
   "description": "A Jekyll theme inspired by Netflix",
   "main": "gulpfile.js",
-  "homepage": "https://github.com/thiagorossener/jekflix-template.git#readme",
+  "homepage": "https://github.com/thiagorossener/jekflix-pk-template.git#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thiagorossener/jekflix-template.git"
+    "url": "https://github.com/thiagorossener/jekflix-pk-template.git"
   },
   "keywords": [
     "jekyll",
@@ -18,7 +18,7 @@
   "author": "Thiago Rossener",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thiagorossener/jekflix-template/issues"
+    "url": "https://github.com/thiagorossener/jekflix-pk-template/issues"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",

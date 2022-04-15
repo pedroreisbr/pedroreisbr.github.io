@@ -1,7 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
+name: Pedro Reis
+title: Pedro Reis | Newslatter
+description: jekflix-pk is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
   - blog
@@ -13,28 +13,28 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: Sobre
     url: /about
-  - title: Contact
+  - title: Contato
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: peddroreis.ti@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: disqus_X8hWnX42Ni
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: xknyqvvp
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: pedrooreisbr
+facebook_username: pedroreis.uft
+twitter_username: PedroUFT
+instagram_username: pedroreis.br
+linkedin_username: pedro-henrique-silva-mendes-dos-reis-480972b1/
+medium_username: pedroreis.ti
 
 
 # Posts Settings
@@ -47,8 +47,8 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+google_analytics: "G-XDX5EPEXW5"
+language: "pt-br"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
@@ -105,4 +105,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.1
+version: v1.0.1
